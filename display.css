@@ -1,0 +1,50 @@
+ *
+ {
+ 	margin:0px;
+ 	padding:0px;
+ }
+ table
+ {
+ 	margin-left:80px;
+ 	margin-top:90px;
+ 	border:3px solid #f7fbfc;
+ 	border-radius: 3px;
+ } 
+ th,td
+ {
+ 	background-color:#dbd8e3;
+ 	border-radius:3px;
+ 	border-collapse: collapse;
+ 	text-align: center;
+ }
+ .heading
+{
+	font-family: candara;
+	color:#dbd8e3;
+	font-size:20px;
+	text-decoration: none;
+}
+.header
+{
+	background-color: #3bb4c1;
+	line-height: 70px;
+	padding-left: 30px;
+	display:flex;
+}
+.button2
+{
+	background-color: #f2676a;
+	width:150px;
+	height:25px;
+	margin-left:1240px;
+	border-radius: 10px;
+	border:1px solid #f2676a;
+	font-family: candara;
+	padding:5px;
+	font-size:16px;
+	color:#F0F8FF;
+	position:relative;
+	text-decoration: none;
+}
+
+ 
